@@ -1,7 +1,7 @@
 ### Hi there 👋
-<br>
-[![Georges's GitHub stats](https://github-readme-stats.vercel.app/api?username=glgauthier&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+
+[![Georges's GitHub stats](https://github-readme-stats.vercel.app/api?username=glgauthier&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
+
 [![Georges's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=glgauthier&exclude_repo=MQP,GPS,LED_Strip_Controller)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
